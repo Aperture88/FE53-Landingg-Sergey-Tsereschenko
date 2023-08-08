@@ -1,0 +1,41 @@
+.about {
+    background-color: #fff;
+    padding: 100px 0;
+  }
+.about-card {
+    width: 350px;
+
+  }
+  .about-wrapper{
+    display: flex;
+    justify-content:space-between;
+  }
+  .about-cardtitle{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  .about-cardimg{
+    width: 50%;
+    height: 33px;
+    margin: auto;
+    text-align: center;
+    width: 70px; 
+    height: 70px; 
+    overflow: hidden; 
+    display: flex;
+     justify-content: center;
+     align-items: center;
+    border-radius: 50%;
+    border: 2px solid red;
+    margin-bottom: 30px;
+  }
+  .Cardmaintext p{
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+  }
+  
